@@ -20,6 +20,5 @@ markdown_extensions:
 plugins:
   - search
   - awesome-nav
-  - blog
 
 
